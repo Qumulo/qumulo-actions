@@ -17,7 +17,8 @@ mounted in Finder.
 ## Install in three steps
 
 1. Double‑click the `.pkg` and follow the prompts (administrator password required).
-2. Turn on **Qumulo Actions Finder Sync** in **System Settings → General → Login Items & Extensions**.
+2. In **System Settings → General → Login Items & Extensions**, click the **ⓘ** next to
+   **QumuloActions** and turn on **File Provider**.
 3. Right‑click a file on a Qumulo share → **Qumulo Actions…**, then sign in on the **Settings** tab.
 
 ## Documentation

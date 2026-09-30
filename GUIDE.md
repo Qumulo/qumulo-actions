@@ -27,11 +27,17 @@ Mac), macOS may ask whether Qumulo Actions can **find devices on your local netw
 
 macOS requires you to enable the extension by hand — an installer isn't allowed to do it for you.
 
-1. Open **System Settings → General → Login Items & Extensions**.
-2. Scroll to **Extensions**. Find the Finder extensions group — depending on your macOS version it's
-   shown as **File Providers**, **Finder** or **Added Extensions** — and open it.
-3. Turn on **Qumulo Actions Finder Sync**.
+1. Open **System Settings → General → Login Items & Extensions**. (Shortcut: type **extensions** in
+   the System Settings search field.)
+2. Under **Extensions**, find **QumuloActions** and click its **ⓘ** button.
+3. In the **QumuloActions Extensions** window, turn on **File Provider**, then click **Done**.
+
+   ![System Settings showing the QumuloActions Extensions window with the File Provider extension turned on](screenshots/sys-settings-extension-screenshot.png)
+
 4. Close System Settings.
+
+On older macOS versions the extensions are grouped by type instead of by app: open the **Finder** (or
+**Added Extensions**) group and turn on **Qumulo Actions Finder Sync**.
 
 ## 3. Restart Finder (if the menu doesn't show up)
 
