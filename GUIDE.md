@@ -48,7 +48,12 @@ relaunch Finder:
 
 1. In Finder, open a **mounted Qumulo share** and select one or more files or folders.
 2. **Right‑click** the selection and choose **Qumulo Actions…**
+
+   ![Finder's right‑click menu on a folder, with Qumulo Actions… highlighted](screenshots/right-click-screenshot.png)
+
 3. A window opens with four tabs: **Info · Tags · Permissions · Settings**.
+
+   ![The Qumulo Actions window showing a folder's owner, group and permission entries on the Permissions tab](screenshots/actions-ui-screenshot.png)
 
 > The menu only appears on Qumulo shares — not on other drives or network shares.
 
@@ -63,6 +68,9 @@ You need to sign in before you can read or change tags and permissions. Do it on
 4. Sign in one of two ways:
    - **Username and password** — your Qumulo / Active Directory account, or
    - **Long‑lived access token** — click **Load from File…** or paste the token.
+
+   ![The Settings tab with a cluster selected: username and password entered above the Sign In button, the long‑lived token option below it, and Accept self‑signed certificate ticked](screenshots/login-screenshot.png)
+
 5. A green check mark means you're signed in. Each cluster keeps its own separate sign‑in.
 
 ---

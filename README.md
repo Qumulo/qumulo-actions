@@ -3,11 +3,13 @@
 View and edit **tags**, **permissions** and **file info** for items on mounted Qumulo SMB shares,
 directly from Finder's right‑click menu.
 
+![The Qumulo Actions window showing a folder's owner, group and permission entries on the Permissions tab](screenshots/actions-ui-screenshot.png)
+
 ## Download
 
-Get the latest **`QumuloActions-<version>.pkg`** from
-[**Releases**](https://github.com/Qumulo/qumulo-actions/releases/latest). Every installer is signed
-with a Developer ID and notarized by Apple.
+Download the installer for the version you want from the files in this repository:
+**`QumuloActions-<version>.pkg`** — the highest version number is the latest. Open the file, then
+click **Download raw file**. Every installer is signed with a Developer ID and notarized by Apple.
 
 **Requirements:** macOS 14 (Sonoma) or later, Intel or Apple Silicon, and a Qumulo SMB share
 mounted in Finder.
