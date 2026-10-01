@@ -28,3 +28,8 @@ mounted in Finder.
 - [**Release Notes**](RELEASE_NOTES.md): what changed in each version.
 
 To remove Qumulo Actions, run **Applications → Uninstall Qumulo Actions** (see the guide).
+
+## License
+
+Qumulo Actions for Mac is the property of Qumulo, Inc. and is free to use under the
+[Apache License, Version 2.0](LICENSE). See [NOTICE](NOTICE) for copyright and trademark details.
